@@ -361,7 +361,7 @@ a {
 
 /* --------------------------------services-------------------------------- */
 .d3{
-      display: flex;
+    display: flex;
     flex-wrap: wrap;
 }
 .services {
